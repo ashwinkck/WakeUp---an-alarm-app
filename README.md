@@ -9,7 +9,7 @@ A minimalist alarm clock application with a clean black and white design.
 - Material Design 3 components
 
 ## Screenshots
-1. [clockhome](https://github.com/user-attachments/assets/432c1fbe-e838-449b-9651-eeecbf7badb8)
+1. ![clockhome](https://github.com/user-attachments/assets/432c1fbe-e838-449b-9651-eeecbf7badb8)
 2. ![setup](https://github.com/user-attachments/assets/fdeb6210-387f-448a-8731-045680c81f26)
 
 
