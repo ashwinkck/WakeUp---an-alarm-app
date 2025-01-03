@@ -13,3 +13,8 @@ A minimalist alarm clock application with a clean black and white design.
 2. ![setup](https://github.com/user-attachments/assets/fdeb6210-387f-448a-8731-045680c81f26)
 
 
+## Technologies Used
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Android Alarm Manager
