@@ -13,7 +13,3 @@ A minimalist alarm clock application with a clean black and white design.
 2. ![setup](https://github.com/user-attachments/assets/fdeb6210-387f-448a-8731-045680c81f26)
 
 
-## Setup
-1. Clone the repository
-2. Open in Android Studio
-3. Build and run
